@@ -1,3 +1,4 @@
 pokedex/
 .ipynb_checkpoints/
+*.parquet
 
